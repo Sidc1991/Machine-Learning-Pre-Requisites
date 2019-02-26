@@ -22,7 +22,7 @@ For a more focused introduction to **Bayesian statistics** look at Ben Lambert's
 
 ## Linear Algebra
 
-Most linear algebra needed for ML is covered by Gilbert Strang. The pdf of his book has been uploaded here and the course website can be found on [MIT.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Video lectures are also available on the course website.
+Most linear algebra needed for ML is covered by Gilbert Strang. The pdf of his book has been uploaded in this repository and the course website can be found on [MIT.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Video lectures are also available on the course website.
 
 ## Time Series
 
@@ -37,6 +37,10 @@ The Elements of Statistical Learning pdf by Hastie and Tibshirani is uploaded in
 
 
 ## Optimization
+
+A more advanced mathematical topic. Numerical optimization underpins most of the algorithms try to solve the cost function problem in ML. This repository contains book on Numerical Optimization by Nocedal and wright. It is also worth checking Stephen Boyd's excellent Stanford course on [convex optimization.](http://web.stanford.edu/class/ee364a/)
+
+The youtube playlist for this course can be found [here.](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
 #==============================================
 
