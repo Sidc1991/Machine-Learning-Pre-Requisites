@@ -58,10 +58,26 @@ Pandas is a software library written for the Python programming language for dat
 Data School's channel is also the place to look for tutorials on other useful python libraries like scikit learn and numpy.
 
 ## Latex
+I prefer to use [Sharelatex's](https://www.sharelatex.com/) online latex editor to compile research documents. A good understanding of sharelatex's functionalities can be obtained from their official youtube playlist [here.](https://www.youtube.com/playlist?list=PLCRFsOKSM7ePUBOfh3O-K5XZldM5uCPwk)
 
 ## Git
-Git is necessary for decentralized version control. A key element of any collaborative workflow. It is best to understand it through the command line as GUIs may not have all the functionalities. An excellent introduction in Git commands can be found in Corey Schafer's course: [here.]()
+Git is necessary for decentralized version control. A key element of any collaborative workflow. It is best to understand it through the command line as GUIs may not have all the functionalities. An excellent introduction in Git commands can be found in Corey Schafer's course: [here.](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 
 #===============================================
 
 ## (III) Research and Miscellaneous Resources
+Some additional resources to stay up-to-date with ML research.
+## Youtube Channels:
+Siraj Raval's [youtube channe](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and [github](https://github.com/llSourcell)
+
+[Two Minute Papers](https://www.youtube.com/user/keeroyz)
+
+[Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+
+## Insights
+
+Pedro Domingues's paper, *A Few Useful Things To Know About Machine Learning* uploaded in this repository is a very good intuitive introduction to what machine learning can and cannot do. 
+
+## Blogs
+
+(Will list later)
