@@ -1,6 +1,6 @@
 # Machine Learning Pre-Requisites
 
-A compilation of mathematics and programming pre-requisites to dive into ML.
+A compilation of mathematics and programming pre-requisites I used to dive into ML.
 
 ## (I) Mathematics
 
@@ -47,10 +47,15 @@ The youtube playlist for this course can be found [here.](https://www.youtube.co
 ## (II) Programming Courses
 
 ## Intro to Computer Science
+There are many excellent introductory computer science courses out there like Harvard CS50. However, from ML perspective, Udacity's [CS101](https://in.udacity.com/course/intro-to-computer-science--udcs101-india) has been my favourite intro to CS course with its emphasis on Python programming. 
 
 ## C++
+[New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 
 ## Pandas
+Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. I have uploaded my workbook in this repository and an excellent pandas tutorial by Data School can be found [here.](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
+Data School's channel is also the place to look for tutorials on other useful python libraries like scikit learn and numpy.
 
 ## Latex
 
