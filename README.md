@@ -1,1 +1,1 @@
-# Machine-Learning-Pre-Requisites
+# Machine Learning Pre-Requisites
