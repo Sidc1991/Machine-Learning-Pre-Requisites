@@ -24,6 +24,12 @@ For a more focused introduction to **Bayesian statistics** look at Ben Lambert's
 
 ## Linear Algebra
 
+Most linear algebra needed for ML is covered by Gilbert Strang. The pdf of his book has been uploaded here and the course website can be found on [MIT.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Video lectures are also available on the course website.
+
+## Time Series
+
+Ben Lambert has an excellent primer for time-series analysis [here](https://www.youtube.com/playlist?list=PLvo9ZnEQG5oXC-cg8ecXr6SJZWprEL1UC). Auto-regressive models, random walks, seasonality and integrated processes which generally form the baseline of time-series analysis are given a thorough treatment. 
+
 
 
 
