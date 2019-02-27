@@ -68,7 +68,7 @@ Git is necessary for decentralized version control. A key element of any collabo
 ## (III) Research and Miscellaneous Resources
 Some additional resources to stay up-to-date with ML research.
 ## Youtube Channels:
-Siraj Raval's [youtube channe](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and [github](https://github.com/llSourcell)
+Siraj Raval's [youtube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and [github](https://github.com/llSourcell)
 
 [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 
