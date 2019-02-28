@@ -38,7 +38,7 @@ The Elements of Statistical Learning pdf by Hastie and Tibshirani is uploaded in
 
 ## Optimization
 
-A more advanced mathematical topic. Numerical optimization underpins most of the algorithms try to solve the cost function problem in ML. This repository contains book on Numerical Optimization by Nocedal and wright. It is also worth checking Stephen Boyd's excellent Stanford course on [convex optimization.](http://web.stanford.edu/class/ee364a/)
+A more advanced mathematical topic. Numerical optimization underpins most of the algorithms try to solve the cost function problem in ML. This repository contains book on Numerical Optimization by Nocedal and Wright. It is also worth checking Stephen Boyd's excellent Stanford course on [convex optimization.](http://web.stanford.edu/class/ee364a/)
 
 The youtube playlist for this course can be found [here.](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
