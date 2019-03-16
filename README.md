@@ -33,12 +33,14 @@ Ben Lambert has an excellent primer for time-series analysis [here](https://www.
 
 The Elements of Statistical Learning pdf by Hastie and Tibshirani is uploaded in this repository. Quite easily the most accessible book written on this topic. A video course is also available on Stanford [website](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about) and on [youtube.](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 
-![alt text](https://images.springer.com/sgw/books/medium/9780387216065.jpg)
+![stat_learn](https://images-na.ssl-images-amazon.com/images/I/41aQrQaPseL._SX331_BO1,204,203,200_.jpg)
 
 
 ## Optimization
 
 A more advanced mathematical topic. Numerical optimization underpins most of the algorithms try to solve the cost function problem in ML. This repository contains book on Numerical Optimization by Nocedal and Wright. It is also worth checking Stephen Boyd's excellent Stanford course on [convex optimization.](http://web.stanford.edu/class/ee364a/)
+
+![nocedal](https://images-na.ssl-images-amazon.com/images/I/41hoth8-ApL._SX360_BO1,204,203,200_.jpg) ![Boyd](https://images-na.ssl-images-amazon.com/images/I/41LM2R0e8EL._SX383_BO1,204,203,200_.jpg)
 
 The youtube playlist for this course can be found [here.](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
