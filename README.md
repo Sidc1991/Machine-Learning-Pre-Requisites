@@ -82,4 +82,4 @@ Pedro Domingues's paper, *A Few Useful Things To Know About Machine Learning* up
 
 ## Blogs
 
-(Will list later)
+[Zachary C. Lipton](http://approximatelycorrect.com/author/zack/)
